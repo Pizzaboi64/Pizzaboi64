@@ -1,8 +1,8 @@
 <h1>Hi, Sam I am 👋, an <a href="https://www.linkedin.com/in/samuel-hintz/" target="_blank">IT Professional 💻</a>☺</h1>
 
-<!-- 
-<h2>👨‍💻 Information Technology Projects:</h2>
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+<!-- 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
