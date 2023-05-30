@@ -1,7 +1,21 @@
 <h1>Hi, Sam I am 👋, an <a href="https://www.linkedin.com/in/samuel-hintz/" target="_blank">IT Professional 💻</a>☺</h1>
 
+<head>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'></head>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h3>Information Technology Projects[👨‍💻]:</h3>
+ <p>Microsoft Azure</p>
+  <ul>
+    <li><a href="https://github.com/SamEshaia/Azure-Compute-and-Networking">Azure Computer and Network</a></li>
+  </ul>
+<hr></hr> 
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/samuel-hintz
 <!-- 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
