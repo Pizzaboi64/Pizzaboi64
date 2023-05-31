@@ -1,4 +1,4 @@
-<h1>Hi, Sam I am 👋, an <a href="https://www.linkedin.com/in/samuel-hintz/" target="_blank">IT Professional 💻</a>☺</h1>
+<h1>Hi, Sam I am 👋, an <a href="https://www.linkedin.com/in/samuel-hintz/" target="_blank">IT Business Professional 💻</a>☺</h1>
 
 <head>
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'></head>
