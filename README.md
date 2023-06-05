@@ -6,7 +6,11 @@
 <h3>Information Technology Projects[👨‍💻]:</h3>
  <p>Microsoft Azure</p>
   <ul>
-    <li><a href="https://github.com/SamEshaia/Azure-Compute-and-Networking">Azure Computer and Network</a></li>
+    <li><a href="https://github.com/SamEshaia/Azure-Compute-and-Networking">Azure Compute and Network</a></li>
+  </ul>
+ <p>Ticketing Systems</p>
+  <ul>
+    <li><a href="https://github.com/SamEshaia/Ticketing-Systems">osTicket</a></li>
   </ul>
 <hr></hr> 
 <h2>🤳Connect with me:</h2>
