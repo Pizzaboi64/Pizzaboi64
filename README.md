@@ -11,8 +11,8 @@
  <p>Ticketing Systems</p>
   <ul>
     <li><a href="https://github.com/SamEshaia/Ticketing-Systems">osTicket: Prerequisities and Installation</a></li>
-    <li><a href="https://github.com/SamEshaia/Ticketing-Systems">osTicket: Post-Installation and Configuration</a></li>
-    <li><a href="https://github.com/SamEshaia/Ticketing-Systems">osTicket: Ticket Lifecycle Examples</a></li>
+    <li><a href="https://github.com/SamEshaia/Ticketing-Systems#osticket-post-installation-setup">osTicket: Post-Installation and Configuration</a></li>
+    <li><a href="https://github.com/SamEshaia/Ticketing-Systems#tickets-and-ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
 <hr></hr> 
 <h2>🤳Connect with me:</h2>
