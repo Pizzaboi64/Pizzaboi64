@@ -18,8 +18,15 @@
 <hr></hr> 
 <h2>🤳Connect with me:</h2>
  <a href="https://www.linkedin.com/in/samuel-hintz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
  </a>
+ <a href="https://twitter.com/SamuelEshaia">
+  <img alt="twitter URL" src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter">
+ </a>
+ <a href="https://www.instagram.com/gimmehintz57">
+ <img alt="instagram URL" src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram">
+  </a>
+      
 
 
 
