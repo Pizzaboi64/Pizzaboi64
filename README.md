@@ -16,7 +16,7 @@
     <li><a href="https://github.com/SamEshaia/Ticketing-Systems#tickets-and-ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
 <hr></hr> 
-<h3>🤳Connect with me:</h3>
+<h3>Connect with me:</h3>
  <a href="https://www.linkedin.com/in/samuel-hintz">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
  </a>
