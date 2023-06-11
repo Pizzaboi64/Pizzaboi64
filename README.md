@@ -16,6 +16,19 @@
     <li><a href="https://github.com/SamEshaia/Ticketing-Systems#tickets-and-ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
 <hr></hr> 
+  <h3>Languages</h3>
+  <a href="https://github.com/SamEshaia">
+     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
+  </a>
+  <a href="https://github.com/SamEshaia">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
+  </a>
+  <a href="https://github.com/SamEshaia">
+    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
+  <a href="https://github.com/SamEshaia">
+    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
+  </a>
+
 <h3>Connect with me:</h3>
  <a href="https://www.linkedin.com/in/samuel-hintz">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
