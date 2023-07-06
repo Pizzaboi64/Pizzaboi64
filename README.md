@@ -9,14 +9,17 @@
     <li><a href="https://github.com/SamEshaia/Azure-Compute-and-Networking">Network Security Groups (NSG) and Inspecting Network Protocols</a></li>
     <li><a href="https://github.com/SamEshaia/Active-Directory-Deployed-in-the-Cloud--Azure-">Active Directory Deployed in the Cloud (Azure)</a></li>
   </ul>
- <p>Ticketing Systems</p>
+ <p>Ticketing Systems 🎟️</p>
   <ul>
     <li><a href="https://github.com/SamEshaia/Ticketing-Systems">osTicket: Prerequisities and Installation</a></li>
     <li><a href="https://github.com/SamEshaia/Ticketing-Systems#osticket-post-installation-setup">osTicket: Post-Installation and Configuration</a></li>
     <li><a href="https://github.com/SamEshaia/Ticketing-Systems#tickets-and-ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
 <hr></hr> 
-  <h3>Languages</h3>
+  <h3>Certifications 📜:</h3>
+  <li><a href="https://www.linkedin.com/posts/samuel-hintz_super-excited-to-announce-the-completion-activity-7082782697873424384-PdFz?utm_source=share&utm_medium=member_desktop">Course Careers Information Technology Certification</a></li>
+
+  <h3>Languages 👾</h3>
   <a href="https://github.com/SamEshaia">
      <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
   </a>
