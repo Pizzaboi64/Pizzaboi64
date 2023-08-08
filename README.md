@@ -8,6 +8,7 @@
   <ul>
     <li><a href="https://github.com/SamEshaia/Azure-Compute-and-Networking">Network Security Groups (NSG) and Inspecting Network Protocols</a></li>
     <li><a href="https://github.com/SamEshaia/Active-Directory-Deployed-in-the-Cloud--Azure-">Active Directory Deployed in the Cloud (Azure)</a></li>
+    <li><a href="https://github.com/SamEshaia/Windows-Deployment-Services">Windows Deployment Services Deployed in the Cloud (Azure)</a></li>
   </ul>
  <p>Ticketing Systems 🎟️</p>
   <ul>
