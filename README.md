@@ -19,6 +19,7 @@
 <hr></hr> 
   <h3>Certifications 📜:</h3>
   <li><a href="https://www.linkedin.com/posts/samuel-hintz_super-excited-to-announce-the-completion-activity-7082782697873424384-PdFz?utm_source=share&utm_medium=member_desktop">Course Careers Information Technology Certification</a></li>
+  <li><a href="https://www.credly.com/badges/8c451189-bf69-4eb5-903f-6b5bc53e2d23/linked_in_profile">Google IT Support Certification</a></li>
 
   <h3>Languages 👾</h3>
   <a href="https://github.com/SamEshaia">
